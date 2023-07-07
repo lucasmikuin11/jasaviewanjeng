@@ -318,6 +318,6 @@ async function start() {
         await iklan_view(client)
     }
 }
-for (var i = 0; i < 10; i++) {
+for (var i = 0; i < 15; i++) {
     start()
 }
